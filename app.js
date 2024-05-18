@@ -1,0 +1,8 @@
+let name = prompt("Adın nedir?")
+document.write (name)
+let age = +prompt("Neçe yaşın var?")
+document.write(age)
+let color = prompt("En sevdiyin reng nedir?")
+document.write(color)
+let action = prompt("En sevdiyin fealiyyet nedir?")
+document.write(action)
